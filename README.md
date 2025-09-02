@@ -18,8 +18,8 @@ Este é um projeto desenvolvido como parte de um curso da Coursera. A proposta c
 
 <img src="logo.png" alt="Logo do Little Lemon" width="200">
 
-> Você pode visualizar o projeto diretamente [clicando aqui](https://github.com/isabelirezende/Formul-rio-reserva-de-mesa---Coursera) 🔗  
-> *(Substitua pelo link do GitHub Pages se quiser ativar)*
+> Você pode visualizar o projeto diretamente [clicando aqui](https://isabelirezende.github.io/Formul-rio-reserva-de-mesa---Coursera/) 🔗  
+> 
 
 ## Como visualizar
 
